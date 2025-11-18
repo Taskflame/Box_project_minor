@@ -1,0 +1,22 @@
+# Video
+*.mov
+*.MOV
+
+# Frames extracted
+frames/
+masks/
+
+# COLMAP generated data
+colmap_images/images/
+colmap_images/sparse/
+colmap_images/stereo/
+colmap_db/
+colmap_sparse/
+colmap_text/
+
+# Output models
+output/
+
+# Python cache
+__pycache__/
+*.pyc
